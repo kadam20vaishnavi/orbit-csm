@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382841062479",
+    "project_id": "csmproject-520d3",
+    "storage_bucket": "csmproject-520d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382841062479:android:1a525462e3941905b0563a",
+        "android_client_info": {
+          "package_name": "com.example.orbit_csm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKnGY7JXyiYUH4_k7Cp5hIH9qZLJaCjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
